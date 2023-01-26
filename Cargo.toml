@@ -1,0 +1,8 @@
+[package]
+name = "browser_engine"
+version = "0.1.0"
+authors = ["Kenvi Zhu <mrwhite@163.com>"]
+
+[dependencies]
+getopts = "0.2.21"
+image = "0.24.5"
